@@ -1,0 +1,5 @@
+{
+    "editor.quickSuggestionsDelay": 8,
+    "editor.suggest.insertMode": "replace",
+    "editor.acceptSuggestionOnEnter": "smart"
+}
